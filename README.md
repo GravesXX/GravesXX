@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm @GravesXX
 
 <!--
 **GravesXX/GravesXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/isaacxia/) 
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:isaacxia99@gmail.com)  
+
+
