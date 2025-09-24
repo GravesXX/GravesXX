@@ -1,4 +1,4 @@
-## Hi there 👋, I'm @GravesXX
+## Hi there 👋, I'm Graves
 
 <!--
 **GravesXX/GravesXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
