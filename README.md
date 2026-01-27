@@ -15,6 +15,7 @@
 
 ### About Me
 
+- Delivering fast, scalable and impactful Generative AI solution, from end to end.
 - Building full-stack applications with modern web technologies
 - Exploring cloud architecture on AWS and Azure
 - Open to collaborating on interesting projects
