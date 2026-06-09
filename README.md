@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Hey,%20I'm%20Graves&fontSize=36&fontAlignY=35&desc=GenAI%20Developer%20%7C%20Cloud%20Enthusiast&descSize=16&descAlignY=55&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Hey,%20I'm%20Graves&fontSize=36&fontAlignY=35&desc=Senior%20AI%20Engineer%20%7C%20Cloud%20Enthusiast&descSize=16&descAlignY=55&fontColor=ffffff" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Building+cool+things+on+the+web;React+%7C+Next.js+%7C+Flutter;AWS+%7C+Azure+%7C+Vercel;Always+learning+something+new" alt="Typing SVG" />
 
@@ -15,10 +15,12 @@
 
 ### About Me
 
-- Delivering fast, scalable and impactful Generative AI solution, from end to end.
-- Building full-stack applications with modern web technologies
-- Exploring cloud architecture on AWS and Azure
-- Open to collaborating on interesting projects
+  **Deep enough to tune an LLM's infrastructure — fluent enough to pitch its ROI to a Fortune 500 boardroom.**
+
+  - Senior AI engineer specializing in **agentic systems** and **RAG pipelines**, shipped to production end to end.
+  - Building Generative AI for **Fortune 500 companies** — turned week-long processes into **under an hour** and cut handling time **40–60%**.
+  - I don't just write code: I find where a business leaks value and translate it into **measurable, executive-ready impact**.
+  - University of Toronto Computer Science Specialist· **4× AWS certified** · a continuous learner.
   
 ---
 
