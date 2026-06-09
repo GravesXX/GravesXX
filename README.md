@@ -18,7 +18,7 @@
   **Deep enough to tune an LLM's infrastructure — fluent enough to pitch its ROI to a Fortune 500 boardroom.**
 
   - Senior AI engineer specializing in **agentic systems** and **RAG pipelines**, shipped to production end to end.
-  - Building Generative AI for **Fortune 500 companies** — turned week-long processes into **under an hour** and cut handling time **40–60%**.
+  - Building GenAI solutions for **Fortune 500** — turned week-long processes into **under an hour** and cut handling time **40–60%**.
   - I don't just write code: I find where a business leaks value and translate it into **measurable, executive-ready impact**.
   - University of Toronto Computer Science Specialist· **4× AWS certified** · a continuous learner.
   
